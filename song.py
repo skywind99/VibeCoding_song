@@ -7,7 +7,7 @@ import lyricsgenius
 import json
 import io
 import time
-
+from acrcloud.recognizer import ACRCloudRecognizer, ACR_OPT_REC_AUDIO
 # --- 초기 설정 및 세션 상태 ---
 # (이전 코드와 동일하게 유지)
 if 'song_title' not in st.session_state:
