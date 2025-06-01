@@ -1,0 +1,5 @@
+
+ streamlit-webrtc 
+acrcloud-sdk-python 
+lyricsgenius
+pydub
